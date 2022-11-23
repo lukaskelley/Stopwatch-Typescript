@@ -1,0 +1,8 @@
+.control >  button {
+    background-color: greenyellow;
+    outline: none !important;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
